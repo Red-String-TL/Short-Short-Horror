@@ -1,0 +1,105 @@
+{
+  "title": "Collecton of Minowa Bunko's Short Short Horror Series",
+  "description": "Slight NSFW Warning! Translated with artist's permission. This is a series of short scary stories. The level of 'horror' changes with each story. ",
+  "artist": "@minowabunko",
+  "author": "@minowabunko",
+  "cover": "https://pbs.twimg.com/profile_images/1484005661243428866/3IXz9tCs_400x400.jpg",
+  "chapters": {
+    "1": {
+      "title": "Class Picture",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/XXXXXX/"
+      },
+      "last_updated": "1643686424"
+    },
+     "2": {
+      "title": "How To See The Other World",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/XXXXE/"
+      },
+      "last_updated": "1643686424"
+    },
+     "3": {
+      "title": "Gloomy Posters",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/XXXXX/"
+      },
+      "last_updated": "1643686424"
+    },
+     "4": {
+      "title": "The Sound of Rain",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/XXXXX/"
+      },
+      "last_updated": "1643686424"
+   },
+       "5": {
+      "title": "For The Gram",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/XXXXXX/"
+      },
+      "last_updated": "1643686424"
+},
+     "6": {
+      "title": "The Frog's Child is a Frog",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/XXXXXX/"
+      },
+      "last_updated": "1643686424"
+},
+       "7": {
+      "title": "August Fireworks",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/XXXXXX/"
+      },
+      "last_updated": "1643686424"
+},
+     "8": {
+      "title": "A Lesson From My Grandfather",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/XXXXX/"
+      },
+      "last_updated": "1643686424"
+},
+       "9": {
+      "title": "The Divide",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/XXXXX/"
+      },
+      "last_updated": "1643686424"
+},
+       "10": {
+      "title": "Trick or Treat Auntie",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/XXXXX/"
+      },
+      "last_updated": "1643686424"
+},
+       "11": {
+      "title": "Good Work Today",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/XXXXX/"
+      },
+      "last_updated": "1643686424"
+},
+       "12": {
+      "title": "#RetweetForYourSafety",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/XXXXX/"
+      },
+      "last_updated": "1643686424"
+    }
+  }
+}
